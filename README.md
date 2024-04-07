@@ -6,7 +6,7 @@
   </a>  
 </p>
 
-I am a 21-year-old Information Systems graduate from PUC-Campinas, currently working as a Java Back-End developer at Autbank.
+I am a 22-year-old Information Systems graduate from PUC-Campinas, currently working as a Java Back-End developer at Autbank.
 
 ## 🔧 Technologies
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width=50px> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width=50px> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width=50px> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width=50px> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width=50px> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width=50px> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width=50px> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width=50px> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width=50px> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width=50px> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width=50px> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width=50px>
